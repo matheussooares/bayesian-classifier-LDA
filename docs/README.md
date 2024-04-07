@@ -1,5 +1,5 @@
 # Classificador Baysiano e Técnica LDA
-O Classificador Bayesiano é um método de classificação baseado no Teorema de Bayes, fundamental teoria da probabilidade. Sua ideia principal é usar a probabilidade condicional das classes dado um conjunto de características para realizar a classificação de novos dados. Assim, o classificador utiliza-se da ideia de probabilidade a posteriori: probabilidade condicional quando a observação de um evento relevante é considerado.
+O Classificador Bayesiano é um método de classificação baseado no Teorema de Bayes, fundamental teoria da probabilidade. Sua ideia principal é usar a probabilidade condicional das classes dado um conjunto de características para realizar a classificação de novos dados. Assim, o classificador utiliza-se da ideia de **probabilidade a posteriori**, probabilidade condicional quando a observação de um evento relevante é considerado.
 
 ## Atividades do Trabalho
 
