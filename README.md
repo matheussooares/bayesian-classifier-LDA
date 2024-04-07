@@ -1,1 +1,0 @@
-# Classificador_Bayesiano_e_LDA
